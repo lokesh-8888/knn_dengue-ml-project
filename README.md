@@ -140,6 +140,6 @@ Update this section to reflect the actual files in your repo.
 
 ## Contact
 
-If you have questions or want to collaborate, open an issue or reach out to the repository owner.
+If you have questions or want to collaborate, open an issue or reach out to the me.
 
 ---
